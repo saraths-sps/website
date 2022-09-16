@@ -1,2 +1,2 @@
-FROM sarathsps123/myimage
+FROM apache
 ADD . /var/www/html
